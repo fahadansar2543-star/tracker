@@ -3,5 +3,4 @@ class Read {
     constructor(filePath: string) {
         this.filePath = filePath;
     }
-
 }
